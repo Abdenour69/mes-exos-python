@@ -5,4 +5,4 @@ def somme_liste(liste):
         somme+=
         return somme
 
-print(somme_liste([1,2,3,4])) # Affiche 10
+print(somme_liste([1,2,3,4])) # Affiche 10 hchgc
